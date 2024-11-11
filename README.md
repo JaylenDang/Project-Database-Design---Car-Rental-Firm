@@ -31,6 +31,12 @@ The main goals of this project are:
 - **SQL (SQLite Studio)**: Used for all database creation, manipulation, and querying.
 - **draw.io**: For designing the ERD diagram online.
 
+## Files
+- **`Case Study CITS1402.pdf`**: Document outlining the project requirements and specifications for designing a relational database for the "Happy-Holidays" car rental firm, detailing the entities, attributes, and relationships needed for the database.
+- **`Database Design_Car Rental Firm.sql`**: SQL script containing commands to create, populate, and manage the database for the car rental firm.
+- **`ERD project.pdf`**: The hand-drawn diagram illustrating the database structure for the car rental firm, including entities, relationships, and cardinalities, providing a visual representation of the system’s data architecture.
+- **`logical representation - CITS1402.pdf`**: A detailed logical model of the database, including table structures, primary and foreign keys, and constraints, outlining how each table is structured and related to support data integrity and functionality.
+
 ## Learning Outcomes
 This project demonstrates:
 - Proficiency in SQL database design, normalization, and querying.
