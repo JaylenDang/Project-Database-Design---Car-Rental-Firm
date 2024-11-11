@@ -38,7 +38,6 @@ This project demonstrates:
 - Application of theoretical database concepts in a practical, real-world scenario.
 
 ## License
-This project is for educational purposes, created as part of the SQL coursework at UWA. If used elsewhere, please credit the original work.
 This project is original work created for educational purposes. It is licensed under the MIT License, which permits use, distribution, and modification of this code, provided proper attribution is given to the original author (Jaylen Dang).
 
 
