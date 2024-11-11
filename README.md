@@ -1,4 +1,4 @@
-# Project Database Design - Car Rental Firm
+# Project 3_Database Design - Car Rental Firm
 
 ## Overview
 This project is about designing a database for a car rental company, **Happy-Holidays**, created as part of the Structured Query Language unit CITS1402 at the University of Western Australia. The database is designed to manage core aspects of the rental business, including vehicles, depots, client information, bookings, tariffs, and insurance. This repository includes an Entity-Relationship Diagram (ERD), logical schema model, and SQL code for database creation, population, and querying.
